@@ -1,0 +1,430 @@
+{
+   "add_folder": {
+      "description": "Add a new folder to group the products.",
+      "message": "Añadir Grupo"
+   },
+   "advanced": {
+      "description": "The text of the button to toggle advanced settings.",
+      "message": "avanzado"
+   },
+   "ago": {
+      "description": "A setence that describes that something happened {placeholder} time ago, e.g. '{20 minutes} ago'.",
+      "message": "hace $1 "
+   },
+   "animations": {
+      "description": "The label for the checkbox to disable/enable animations.",
+      "message": "Animations"
+   },
+   "badge_color": {
+      "description": "Label for the badge color selector.",
+      "message": "Badge Color"
+   },
+   "best_price": {
+      "description": "Best price on monitor.",
+      "message": "Mejor"
+   },
+   "cancel": {
+      "description": "The text for a generic 'cancel' button.",
+      "message": "Cancelar"
+   },
+   "check_all": {
+      "description": "The text of the button that initiates a check of all pages.",
+      "message": "Actualizar todos"
+   },
+   "check_every": {
+      "description": "The label for the check interval textbox.",
+      "message": "intervalo de comprobación"
+   },
+   "check_in_progress": {
+      "description": "The message to display while a check is in progress.",
+      "message": "Actualizando"
+   },
+   "close": {
+      "description": "The text for a generic 'close form' button.",
+      "message": "Cerrar"
+   },
+   "current_price": {
+      "description": "Current price on monitor.",
+      "message": "Precio"
+   },
+   "custom_mode": {
+      "description": "The label for custom checking mode (selector or regex).",
+      "message": "Custom Mode"
+   },
+   "day": {
+      "description": "A single day, as a number suffix (e.g. '1 day').",
+      "message": "1 dia"
+   },
+   "days": {
+      "description": "A plural number of days, as a number suffix (e.g. '7 days').",
+      "message": "$1 dias"
+   },
+   "description": {
+      "description": "The global description of the extension.",
+      "message": "Amazon, Ebay, Booking.com Etc... Monitoriza todos los productos que quieras de cualquier web y te avisa si cambian."
+   },
+   "diff_corruption": {
+      "description": "Cache corruption error message on the diff page.",
+      "message": "Cache corruption detected and fixed. Last snapshot discarded. Changes highlighting will be available on next update."
+   },
+   "diff_error": {
+      "description": "A diff failure error message on the diff page.",
+      "message": "Diffing error. Please report this."
+   },
+   "diff_hide_deletions": {
+      "description": "Link to hide deletions on the diff page.",
+      "message": "Hide Deletions"
+   },
+   "diff_original": {
+      "description": "Text of the link to the original page on the diff page.",
+      "message": "Original"
+   },
+   "diff_original_title": {
+      "description": "Tooltip of the link to the original page on the diff page.",
+      "message": "View Original Page"
+   },
+   "diff_progress": {
+      "description": "The message to show while fetching the page to diff.",
+      "message": "Diffing in progress."
+   },
+   "diff_show_deletions": {
+      "description": "Link to show deletions on the diff page.",
+      "message": "Show Deletions"
+   },
+   "diff_textize": {
+      "description": "Link to switch the diff page to text-only mode.",
+      "message": "Text Mode"
+   },
+   "diff_title": {
+      "description": "The title of the diff page.",
+      "message": "Price Monitor: Ver Cambios"
+   },
+   "diff_untextize": {
+      "description": "Link to switch the diff page from text-only mode to normal.",
+      "message": "Normal Mode"
+   },
+   "disabled": {
+      "description": "Generic label for disabled items.",
+      "message": "deshabilitado"
+   },
+   "enabled": {
+      "description": "Generic label for enabled items.",
+      "message": "habilitado"
+   },
+   "export": {
+      "description": "The text of the button to export pages into a bookmarks.html.",
+      "message": "Exportar Productos"
+   },
+   "export_prompt": {
+      "description": "The prompt that appears before the exported pages textbox.",
+      "message": "Copy this text into a file and save it as bookmarks.html:"
+   },
+   "feedback": {
+      "description": "The text of the feedback link.",
+      "message": "Feedback"
+   },
+   "hide_deletions": {
+      "description": "The text for the checkbox that hides deletions by default.",
+      "message": "Hide Deletions"
+   },
+   "hour": {
+      "description": "A single hour, as a number suffix (e.g. '1 hour').",
+      "message": "1 hora"
+   },
+   "hours": {
+      "description": "A plural number of hours, as a number suffix (e.g. '7 hours').",
+      "message": "$1 horas"
+   },
+   "import": {
+      "description": "The text of the button to import pages from a bookmarks.html.",
+      "message": "Importar Productos"
+   },
+   "import_button": {
+      "description": "The text for the 'import' button in the import form.",
+      "message": "Import"
+   },
+   "import_empty": {
+      "description": "The error message displayed when no pages are found during an import.",
+      "message": "Import vacio."
+   },
+   "import_error": {
+      "description": "The error message displayed when a page import fails.",
+      "message": "Error, el import posiblemente ha fallado."
+   },
+   "import_prompt": {
+      "description": "The prompt that appears before the bookmarks.html textbox when importing.",
+      "message": "Paste the contents of your bookmarks.html here:"
+   },
+   "import_success_multi": {
+      "description": "The message displayed when multiple pages were imported successfully.",
+      "message": "$1 productos importados con exito."
+   },
+   "import_success_single": {
+      "description": "The message displayed when 1 page was imported successfully.",
+      "message": "Un producto importado con exito."
+   },
+   "initial_price": {
+      "description": "Initial price on monitor.",
+      "message": "Inicial"
+   },
+   "last_check": {
+      "description": "The text of the label that specified when the page was last checked.",
+      "message": "Ultima comprobación"
+   },
+   "mark_visited": {
+      "description": "The text on the button that marks an updated page as visited.",
+      "message": "marcar como visitado"
+   },
+   "minute": {
+      "description": "A single minute, as a number suffix (e.g. '1 minute').",
+      "message": "1 minuto"
+   },
+   "minutes": {
+      "description": "A plural number of minutes, as a number suffix (e.g. '7 minutes').",
+      "message": "$1 minutos"
+   },
+   "monitor": {
+      "description": "The text of the button that marks a page for monitoring.",
+      "message": "Monitorar Precio"
+   },
+   "name": {
+      "description": "The name of the extension.",
+      "message": "Smart Price Monitor"
+   },
+   "never": {
+      "description": "A 'last checked' label for pages that have never been checked.",
+      "message": "nunca"
+   },
+   "new_folder": {
+      "description": "Assign a default text to a new folder in monitor",
+      "message": "Nuevo Grupo"
+   },
+   "new_sound_failed": {
+      "description": "The error message displayed when the URL specified for a new sound could not be played.",
+      "message": "Chrome no ha podido ejecutar el fichero de sonido especificado."
+   },
+   "new_sound_prompt": {
+      "description": "The prompt that appears when the user tries to add a new sound.",
+      "message": "Please enter a name and a URL for the new sound."
+   },
+   "no_changes": {
+      "description": "The popup text when no changes have been found.",
+      "message": "No hay productos monitorizados"
+   },
+   "no_pages_monitored": {
+      "description": "The text that replaces the pages list on the options page when no pages are monitored.",
+      "message": "No hay productos monitorados."
+   },
+   "notifications": {
+      "description": "Label for the desktop notifications checkbox.",
+      "message": "Notificación de escritorio"
+   },
+   "notifications_timeout": {
+      "description": "Label for the desktop notifications timeout textbox.",
+      "message": "Tiempo de notificación"
+   },
+   "notify_all": {
+      "description": "The text of the button that checks all updated pages in new tabs.",
+      "message": "Todos"
+   },
+   "ok": {
+      "description": "The text for a generic 'ok' button.",
+      "message": "Ok"
+   },
+   "options": {
+      "description": "The text of the options link.",
+      "message": "Opciones"
+   },
+   "options_header": {
+      "description": "The text of the pages list header on the options page.",
+      "message": "Productos monitorizados"
+   },
+   "options_title": {
+      "description": "The title of the options page.",
+      "message": "Opciones de Price Monitor"
+   },
+   "page_monitored": {
+      "description": "This text appears in the popup when the current page is already monitored.",
+      "message": "Pagina Monitorizada"
+   },
+   "page_updated_multi": {
+      "description": "Notification title: multiple pages have been updated.",
+      "message": "$1 precios actualizados"
+   },
+   "page_updated_single": {
+      "description": "Notification title: a single page has been updated.",
+      "message": "Precio actualizado"
+   },
+   "pick_button": {
+      "description": "The text on the button that launches the selector GUI.",
+      "message": "Elejir"
+   },
+   "regex": {
+      "description": "The label for regex mode.",
+      "message": "Regex"
+   },
+   "remove_page": {
+      "description": "The text on the button that stops a page from being monitored.",
+      "message": "quitar"
+   },
+   "rename_page": {
+      "description": "The text of the button to rename a page.",
+      "message": "renombrar"
+   },
+   "second": {
+      "description": "A single second, as a number suffix (e.g. '1 second').",
+      "message": "1 segundo"
+   },
+   "seconds": {
+      "description": "A plural number of seconds, as a number suffix (e.g. '7 seconds').",
+      "message": "$1 segundos"
+   },
+   "selector": {
+      "description": "The label for selector mode.",
+      "message": "Selector"
+   },
+   "selector_gui_done": {
+      "description": "The button which accepts the selection and closes the page in the visual selector construction GUI.",
+      "message": "Done"
+   },
+   "selector_gui_help": {
+      "description": "The caption of the help button in the visual selector construction GUI.",
+      "message": "Help"
+   },
+   "selector_gui_help_text": {
+      "description": "The help message in the visual selector construction GUI.",
+      "message": "These controls will allow you to visually select the page element you want to monitor.\n\nStart by moving your mouse around and notice that the elements over which you pass are outlined in blue. Once the outline matches the element you want (or some part of it), click to select it.\n\nIf you're happy with your selection, simply click Done to return to the options page.\n\nIf the element you selected is only part of the element you would like to monitor, you can click on 'Grow Selection' to extend the selection over to the element in which your selection resides. You can repeat this until you are satisfied with the result or until you reach a top-level part of the page.\n\nIf you'd like to start from scratch and select a new element, click 'Pick Element'."
+   },
+   "selector_gui_parent": {
+      "description": "The button which switches from a selected element to its parent in the visual selector construction GUI.",
+      "message": "Grow Selection"
+   },
+   "selector_gui_pick": {
+      "description": "The 'pick element' button in the visual selector construction GUI.",
+      "message": "Pick Element"
+   },
+   "show_full_page_diff": {
+      "description": "The label for the full page diff when in selector mode",
+      "message": "Show Whole Diff in Selector Mode"
+   },
+   "sort": {
+      "description": "The label for the sort order drop-down.",
+      "message": "Sort Pages By"
+   },
+   "sort_date": {
+      "description": "The 'date added' option in the sort order drop-down.",
+      "message": "date added"
+   },
+   "sort_interval": {
+      "description": "The 'check interval' option in the sort order drop-down.",
+      "message": "check interval"
+   },
+   "sort_last_change": {
+      "description": "The 'last changed' option in the sort order drop-down.",
+      "message": "last changed"
+   },
+   "sort_last_check": {
+      "description": "The 'last check' option in the sort order drop-down.",
+      "message": "last check"
+   },
+   "sort_name": {
+      "description": "The 'name' option in the sort order drop-down.",
+      "message": "nombre"
+   },
+   "sort_url": {
+      "description": "The 'URL' option in the sort order drop-down.",
+      "message": "URL"
+   },
+   "sound_alert": {
+      "description": "Label for the sound alert drop-down.",
+      "message": "Sonido de alerta"
+   },
+   "sound_chime": {
+      "description": "The label of the default chime sound.",
+      "message": "Chime"
+   },
+   "sound_create": {
+      "description": "The text of the 'create' button in the 'new sound' form.",
+      "message": "Crear"
+   },
+   "sound_cuckoo": {
+      "description": "The label of the default cuckoo sound.",
+      "message": "Cuckoo"
+   },
+   "sound_delete": {
+      "description": "The text of the button that deletes the selected sound.",
+      "message": "Borrar"
+   },
+   "sound_name": {
+      "description": "The label for the sound name in the 'new sound' form.",
+      "message": "Name"
+   },
+   "sound_new": {
+      "description": "The text of the button that opens the 'new sound' form.",
+      "message": "Nuevo"
+   },
+   "sound_none": {
+      "description": "The value of the no-sound option in the sound alert drop-down.",
+      "message": "ninguno"
+   },
+   "sound_play": {
+      "description": "The text of the button that plays the selected sound.",
+      "message": "Play"
+   },
+   "sound_url": {
+      "description": "The label for the sound URL in the 'new sound' form.",
+      "message": "URL (MP3 o OGG file)"
+   },
+   "stop_monitoring": {
+      "description": "The text on the button that stops a page from being monitored.",
+      "message": "Borrar"
+   },
+   "test_button": {
+      "description": "The text on the button that tests a given regex or selector on a page in advanced mode.",
+      "message": "Test"
+   },
+   "test_fail": {
+      "description": "The message that appears when a regex or selector test fails to retrieve the page to test.",
+      "message": "Could not retrieve selected page."
+   },
+   "test_matches": {
+      "description": "The message that appears when a regex or selector test matches something.",
+      "message": "Matched:"
+   },
+   "test_no_matches": {
+      "description": "The message that appears when a regex or selector test does not match anything.",
+      "message": "No matches."
+   },
+   "test_progress": {
+      "description": "The message that appears while testing a regex or selector.",
+      "message": "Testing..."
+   },
+   "unknown": {
+      "description": "A placeholder for an unknown piece of data.",
+      "message": "desconocido"
+   },
+   "until_closed": {
+      "description": "The option describing the notifications remaining active until closed.",
+      "message": "until closed"
+   },
+   "untitled": {
+      "description": "Default name for pages that have an empty name, with placeholder for the URL.",
+      "message": "Sin nombre ($1)"
+   },
+   "view_all": {
+      "description": "The text of the button that opens all pages in new tabs.",
+      "message": "Ver Todos"
+   },
+   "view_all_function": {
+      "description": "The caption of the settings drop-down to select what the 'View All' button in the popup does.",
+      "message": "\"View All\" Function"
+   },
+   "view_diff": {
+      "description": "The text on the button that opens the diff page.",
+      "message": "ver cambios"
+   },
+   "view_original": {
+      "description": "One of the possible selections for the 'View All function' dropdown. Means that the original page rather than the diff will be opened.",
+      "message": "view original"
+   }
+}

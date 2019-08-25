@@ -1,0 +1,1664 @@
+{
+   "checksum": "f70bedb96a9ae3ec734945e67f8ad5c0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13177850404606798",
+               "id": "198",
+               "name": "Glassdoor Job Search | Find the job that fits your life",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.glassdoor.com/index.htm"
+            }, {
+               "date_added": "13181681582471374",
+               "id": "199",
+               "name": "Junior Front End Developer Interview Questions by drewminns",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://drewminns.github.io/"
+            }, {
+               "date_added": "13181681593115374",
+               "id": "200",
+               "name": "Prepare Your Skill Set for Web Developer Interviews — Part 1",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hackernoon.com/prepare-your-skill-set-for-web-developer-interviews-part-1-75f625a37341"
+            }, {
+               "date_added": "13183430697974810",
+               "id": "201",
+               "name": "Developer: Pegatinas | Redbubble",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.redbubble.com/es/shop/developer+stickers"
+            }, {
+               "date_added": "13188180788329303",
+               "id": "202",
+               "name": "VIM: Jump Back To Previous or Last Cursor Position - nixCraft",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.es/amp/s/www.cyberciti.biz/faq/unix-linux-vim-go-back-to-last-cursor-position/amp/"
+            }, {
+               "date_added": "13188180930650885",
+               "id": "203",
+               "name": "Why Do We Write super(props)? | Overreacted",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://overreacted.io/why-do-we-write-super-props/"
+            }, {
+               "date_added": "13189508477427087",
+               "id": "204",
+               "name": "NightFox Mechanical Keyboard — Kono Store",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://kono.store/products/nightfox-mechanical-keyboard"
+            }, {
+               "date_added": "13189509647535786",
+               "id": "205",
+               "name": "ECMAScript - A Taste from ES2019 (ES10)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://nitayneeman.com/posts/a-taste-from-ecmascript-2019/"
+            }, {
+               "date_added": "13191634556031163",
+               "id": "206",
+               "name": "undivided wallet - Buscar con Google",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=undivided+wallet&oq=undivided+wallet&aqs=chrome..69i57j69i60l2j0l3.6396j1j4&client=ms-android-orange-es&sourceid=chrome-mobile&ie=UTF-8"
+            }, {
+               "date_added": "13192121561737346",
+               "id": "207",
+               "name": "How to Prevent Mac Keyboard Media Shortcuts from Opening iTunes | Jean Galea",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://jeangalea.com/mac-keyboard-itunes-disable/"
+            }, {
+               "date_added": "13192277314780219",
+               "id": "208",
+               "name": "Mastering VS Code's Terminal - Growing with the Web",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.growingwiththeweb.com/2017/03/mastering-vscodes-terminal.html"
+            }, {
+               "date_added": "13193094465251065",
+               "id": "209",
+               "name": "How I Built This Blog with GatsbyJS and Netlify | mbrochh.io",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mbrochh.io/gatsbyjs-netlify/"
+            }, {
+               "date_added": "13193584511154585",
+               "id": "210",
+               "name": "CSS Secrets: Better Solutions to Everyday Web Design Problems: Lea Verou: 0783324946192: Amazon.com: Books",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.amazon.com/CSS-Secrets-Lea-Verou/dp/1449372635?tag=leaverou-20"
+            }, {
+               "date_added": "13193878280551961",
+               "id": "211",
+               "name": "Anyone - Buscar con Google",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=Anyone&oq=Anyone&aqs=chrome..69i57j0l5.981j0j1&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13193881685518357",
+               "id": "212",
+               "name": "Deliciosa Marta, Las Palmas de Gran Canaria - Fotos, Número de Teléfono y Restaurante Opiniones - TripAdvisor",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.tripadvisor.es/Restaurant_Review-g187472-d1672314-Reviews-Deliciosa_Marta-Las_Palmas_de_Gran_Canaria_Gran_Canaria_Canary_Islands.html"
+            }, {
+               "date_added": "13194293747143958",
+               "id": "213",
+               "name": "Conjugacion subir | Conjugar verbo subir | Conjugador Reverso español",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://conjugador.reverso.net/conjugacion-espanol-verbo-subir.html"
+            }, {
+               "date_added": "13194386963912131",
+               "id": "214",
+               "name": "Migrating to GraphQL",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://moonhighway.com/migrating-to-graphql"
+            }, {
+               "date_added": "13194568801573111",
+               "id": "215",
+               "name": "semver/semver.md at master · semver/semver · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/semver/semver/blob/master/semver.md"
+            }, {
+               "date_added": "13194611093995103",
+               "id": "216",
+               "name": "Activities update todo notes - Google Sheets",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1dRAvh3IqF8FDAaEWIrmfnA5yqDTZWO22He4iBeO4ScI/edit#gid=1008392560"
+            }, {
+               "date_added": "13194741502538196",
+               "id": "217",
+               "name": "Sass 7-1 Pattern · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gist.github.com/rveitch/84cea9650092119527bc"
+            }, {
+               "date_added": "13194921729645210",
+               "id": "218",
+               "meta_info": {
+                  "last_visited_desktop": "13205593616380232"
+               },
+               "name": "React App",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://localhost:3000/"
+            }, {
+               "date_added": "13195842957031094",
+               "id": "219",
+               "meta_info": {
+                  "last_visited_desktop": "13203444887305538"
+               },
+               "name": "domain",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/d3/d3/blob/master/API.md"
+            }, {
+               "date_added": "13196740924135010",
+               "id": "220",
+               "name": "Beginner’s Guide to GraphQL API - DEV Community 👩‍💻👨‍💻",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dev.to/marionschleifer/beginners-guide-to-graphql-api-8ke"
+            }, {
+               "date_added": "13196904655184588",
+               "id": "221",
+               "name": "Automate Daily Development Tasks with Bash from @ccnokes on @eggheadio",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://egghead.io/courses/automate-daily-development-tasks-with-bash?utm_source=newsletter&amp%3Butm_medium=email&utm_medium=email"
+            }, {
+               "date_added": "13194568801573111",
+               "id": "222",
+               "name": "semver/semver.md at master · semver/semver · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/semver/semver/blob/master/semver.md"
+            }, {
+               "date_added": "13194568801573111",
+               "id": "223",
+               "name": "semver/semver.md at master · semver/semver · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/semver/semver/blob/master/semver.md"
+            } ],
+            "date_added": "13211203987662727",
+            "date_modified": "13211203987662727",
+            "id": "48",
+            "name": "Job",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13129321130072079",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13203345407362515"
+            },
+            "name": "Anexo:Producciones basadas en DC Comics - Wikipedia, la enciclopedia libre",
+            "sync_transaction_version": "8",
+            "type": "url",
+            "url": "https://es.wikipedia.org/wiki/Anexo:Producciones_basadas_en_DC_Comics#Pel.C3.ADculas_Animadas"
+         }, {
+            "date_added": "13132409357043486",
+            "id": "50",
+            "name": "MEGA 36%",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "https://mega.nz/#fm/transfers"
+         }, {
+            "date_added": "13142595774188895",
+            "id": "51",
+            "name": "MEGA",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "https://mega.nz/#F!qtNGBSKY!o9mwfHP-rbq_sJUFvcvguQ!Shk3xD6J"
+         }, {
+            "children": [ {
+               "date_added": "13179620559201246",
+               "id": "194",
+               "name": "klauscfhq/taskbook: 📓 Tasks, boards & notes for the command-line habitat",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/klauscfhq/taskbook"
+            }, {
+               "date_added": "13179704658922415",
+               "id": "195",
+               "name": "faressoft/terminalizer: 🦄 Record your terminal and generate animated gif images",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/faressoft/terminalizer"
+            }, {
+               "date_added": "13179712133460089",
+               "id": "196",
+               "name": "Simplest Way to Sync Dotfiles and Config Using Git – Victor Augusteo – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@augusteo/simplest-way-to-sync-dotfiles-and-config-using-git-14051af8703a"
+            }, {
+               "date_added": "13206465036200833",
+               "id": "197",
+               "meta_info": {
+                  "last_visited_desktop": "13206465143090436"
+               },
+               "name": "Custom Git commands in 3 steps - The Disco Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://thediscoblog.com/blog/2014/03/29/custom-git-commands-in-3-steps/"
+            } ],
+            "date_added": "13211203987665400",
+            "date_modified": "13211203987665400",
+            "id": "52",
+            "name": "github",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13143070444331246",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13207224583195266"
+            },
+            "name": "Adobe Photoshop CC 2017 v18 0 1 x86x64 Incl Crack Portable SadeemPC Sky torrents search engine Download",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.skytorrents.in/info/2272779a6f3e51017aa6bec1eb3528fa1c9b4bf4/Adobe-Photoshop-CC-2017-v18-0-1-x86x64-Incl-Crack-Portable-SadeemPC/?l=en-us"
+         }, {
+            "children": [ {
+               "date_added": "13166239163113135",
+               "id": "181",
+               "name": "Pacman/Rosetta - ArchWiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Pacman/Rosetta"
+            }, {
+               "date_added": "13177624169600629",
+               "id": "182",
+               "name": "HiDPI and Multiple Monitors - Support & Help Requests - Ubuntu MATE Community",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ubuntu-mate.community/t/hidpi-and-multiple-monitors/16547/4"
+            }, {
+               "date_added": "13178143365298026",
+               "id": "183",
+               "name": "How does the vim \"write with sudo\" trick work? - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work"
+            }, {
+               "date_added": "13179615806906389",
+               "id": "184",
+               "name": "Upgrade Kernel on Ubuntu 18.04 | Linux Hint",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://linuxhint.com/upgrade-kernel-ubuntu-1804/"
+            }, {
+               "date_added": "13199968834892820",
+               "id": "185",
+               "name": "A simpler way to manage your dotfiles | Anand Iyer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html"
+            }, {
+               "date_added": "13200591472959828",
+               "id": "186",
+               "name": "daedreth/URXVTConfig: A graphical user interface tool for configuration of the rxvt-unicode terminal emulator.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/daedreth/URXVTConfig"
+            }, {
+               "date_added": "13200773408546266",
+               "id": "187",
+               "name": "Arch Linux on The Surface Pro 4 | John Ramsden",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ramsdenj.com/2016/08/29/arch-linux-on-the-surface-pro-4.html#audio"
+            }, {
+               "date_added": "13204212386450808",
+               "id": "188",
+               "meta_info": {
+                  "last_visited_desktop": "13204212386451441"
+               },
+               "name": "[Solved] i3: Keyboard-repeat/delay does not persist after reboot - Support for Community Editions - Manjaro Linux Forum",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://forum.manjaro.org/t/solved-i3-keyboard-repeat-delay-does-not-persist-after-reboot/52080"
+            }, {
+               "date_added": "13200591472959828",
+               "id": "189",
+               "name": "daedreth/URXVTConfig: A graphical user interface tool for configuration of the rxvt-unicode terminal emulator.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/daedreth/URXVTConfig"
+            }, {
+               "date_added": "13200591472959828",
+               "id": "190",
+               "name": "daedreth/URXVTConfig: A graphical user interface tool for configuration of the rxvt-unicode terminal emulator.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/daedreth/URXVTConfig"
+            }, {
+               "date_added": "13210190014129206",
+               "id": "191",
+               "name": "How to delete ALL node_modules folders on your machine and free up HD space! - DEV Community 👩‍💻👨‍💻",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dev.to/trilon/how-to-delete-all-nodemodules-folders-on-your-machine-43dh"
+            }, {
+               "date_added": "13210190014129206",
+               "id": "192",
+               "name": "How to delete ALL node_modules folders on your machine and free up HD space! - DEV Community 👩‍💻👨‍💻",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dev.to/trilon/how-to-delete-all-nodemodules-folders-on-your-machine-43dh"
+            }, {
+               "date_added": "13210786311271875",
+               "id": "193",
+               "meta_info": {
+                  "last_visited_desktop": "13210786311272389"
+               },
+               "name": "39 Best Linux terminal emulators as of 2019 - Slant",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.slant.co/topics/794/~best-linux-terminal-emulators#16"
+            } ],
+            "date_added": "13211203987665809",
+            "date_modified": "13211203987665809",
+            "id": "54",
+            "name": "Linux",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13169244605637283",
+               "id": "166",
+               "name": "Sublime Text 3 - Useful Shortcuts (Windows) · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gist.github.com/mrliptontea/4c793ebdf72ed145bcbf"
+            }, {
+               "date_added": "13169245204064871",
+               "id": "167",
+               "name": "\u003Ch1>–\u003Ch6>: The HTML Section Heading elements - HTML | MDN",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements"
+            }, {
+               "date_added": "13182992074852252",
+               "id": "168",
+               "name": "Complete Intro to React v4",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://btholt.github.io/complete-intro-to-react-v4/pure-react/"
+            }, {
+               "date_added": "13190488140168507",
+               "id": "169",
+               "name": "Styled components V4: the good, the bad, and something completely different.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/ansarada-thinking/styled-components-v4-the-good-the-bad-and-something-completely-different-e891139e0138"
+            }, {
+               "date_added": "13190740559145822",
+               "id": "170",
+               "name": "react-journey-2016/egghead-redux-cheat-sheet-3-2-1.pdf at master · linkmesrl/react-journey-2016",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf"
+            }, {
+               "date_added": "13190740614109007",
+               "id": "171",
+               "name": "graphql-shorthand-notation-cheat-sheet.png (2526×1785)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png"
+            }, {
+               "date_added": "13190918681178423",
+               "id": "172",
+               "name": "Understanding `static` in React – Frontend Weekly – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/front-end-weekly/understanding-static-in-javascript-10782149993"
+            }, {
+               "date_added": "13192904898438212",
+               "id": "173",
+               "name": "React Internals, Part One: basic rendering - Matt Greer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/"
+            }, {
+               "date_added": "13193235402500367",
+               "id": "174",
+               "name": "Intro to debugging ReactJS applications – Bartosz Szczeciński – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd"
+            }, {
+               "date_added": "13193321936701017",
+               "id": "175",
+               "name": "Handling Errors in JavaScript: The Definitive Guide",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6"
+            }, {
+               "date_added": "13193526640328649",
+               "id": "176",
+               "name": "Understanding JavaScript: Prototype and Inheritance",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2"
+            }, {
+               "date_added": "13194349313254895",
+               "id": "177",
+               "name": "How To Create CSS Gradient Border Colors - Hongkiat",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.hongkiat.com/blog/css-gradient-border/"
+            }, {
+               "date_added": "13196557578353064",
+               "id": "178",
+               "name": "4. Run your graph in production | Platform",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.apollographql.com/docs/tutorial/production.html"
+            }, {
+               "date_added": "13190740559145822",
+               "id": "179",
+               "name": "react-journey-2016/egghead-redux-cheat-sheet-3-2-1.pdf at master · linkmesrl/react-journey-2016",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf"
+            }, {
+               "date_added": "13190740559145822",
+               "id": "180",
+               "name": "react-journey-2016/egghead-redux-cheat-sheet-3-2-1.pdf at master · linkmesrl/react-journey-2016",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf"
+            } ],
+            "date_added": "13211203987665820",
+            "date_modified": "13211203987665820",
+            "id": "55",
+            "name": "Web",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13169607043946863",
+            "id": "56",
+            "meta_info": {
+               "last_visited": "13203365516244184",
+               "last_visited_desktop": "13203031108038369"
+            },
+            "name": "Ver Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Capítulos Online - AnimeFLV",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://animeflv.net/anime/1855/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka"
+         }, {
+            "children": [ {
+               "date_added": "13170679148367205",
+               "id": "97",
+               "name": "Free Online Classes & Nanodegrees | Udacity",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://eu.udacity.com/"
+            }, {
+               "date_added": "13170679430973317",
+               "id": "98",
+               "name": "Learn to Code Online with Code School | Code School",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.codeschool.com/"
+            }, {
+               "date_added": "13170679443505628",
+               "id": "99",
+               "name": "Coursera | Online Courses & Credentials From Top Educators. Join for Free",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.coursera.org/"
+            }, {
+               "date_added": "13170679514808226",
+               "id": "100",
+               "name": "Unlimited Online Developer, IT and Cyber Security Training | Pluralsight",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.pluralsight.com/"
+            }, {
+               "date_added": "13170679536365784",
+               "id": "101",
+               "name": "Platzi: Cursos online profesionales de tecnología",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://platzi.com/"
+            }, {
+               "date_added": "13170679576256351",
+               "id": "102",
+               "name": "Aprendé a programar | Codecademy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.codecademy.com/es"
+            }, {
+               "date_added": "13170680067356461",
+               "id": "103",
+               "name": "Lynda: Online Courses, Classes, Training, Tutorials",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.lynda.com/"
+            }, {
+               "date_added": "13170705566209852",
+               "id": "104",
+               "name": "Resources for Web Development",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zero-to-mastery.github.io/resources/"
+            }, {
+               "date_added": "13170705725036359",
+               "id": "105",
+               "name": "Learn to code in 2018, get hired, and have fun along the way",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a"
+            }, {
+               "date_added": "13188495343765404",
+               "id": "106",
+               "name": "Redux Tutorial: Learn Redux from Dan Abramov on egghead",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://egghead.io/courses/getting-started-with-redux"
+            }, {
+               "date_added": "13188496106145194",
+               "id": "107",
+               "name": "Understanding JavaScript Memoization In 3 Minutes – codeburst",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codeburst.io/understanding-memoization-in-3-minutes-2e58daf33a19"
+            }, {
+               "date_added": "13188653627483912",
+               "id": "108",
+               "name": "folivora.ai - Great Tools for your Mac!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://folivora.ai/"
+            }, {
+               "date_added": "13188845098854775",
+               "id": "109",
+               "name": "How to stop using console.log() and start using your browser’s debugger",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff"
+            }, {
+               "date_added": "13188998644131064",
+               "id": "110",
+               "name": "11 Javascript Utility Libraries you Should Know in 2019",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade"
+            }, {
+               "date_added": "13189011268863742",
+               "id": "111",
+               "name": "A complete guide to default props in React – LogRocket",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d"
+            }, {
+               "date_added": "13189017157948922",
+               "id": "112",
+               "meta_info": {
+                  "last_visited_desktop": "13209726190353914"
+               },
+               "name": "Mocking is a Code Smell – JavaScript Scene – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a"
+            }, {
+               "date_added": "13189022670718844",
+               "id": "113",
+               "name": "using iTerm2 + High Sierra, prompt have emoji characters, tab-completion will cause repeat display the first letter. · Issue #671 · bhilburn/powerlevel9k",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/bhilburn/powerlevel9k/issues/671"
+            }, {
+               "date_added": "13189086751203732",
+               "id": "114",
+               "name": "Configuring Your .npmrc for an Optimal Node.js Environment",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://nodesource.com/blog/configuring-your-npmrc-for-an-optimal-node-js-environment/"
+            }, {
+               "date_added": "13189086751203732",
+               "id": "115",
+               "name": "Configuring Your .npmrc for an Optimal Node.js Environment",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://nodesource.com/blog/configuring-your-npmrc-for-an-optimal-node-js-environment/"
+            }, {
+               "date_added": "13189181621308282",
+               "id": "116",
+               "name": "You’re Missing Out on a Better Mac Terminal Experience",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7"
+            }, {
+               "date_added": "13189450326728387",
+               "id": "117",
+               "name": "terminal - How to show italic in vim in iTerm2 - Ask Different",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://apple.stackexchange.com/questions/266333/how-to-show-italic-in-vim-in-iterm2"
+            }, {
+               "date_added": "13189459616475731",
+               "id": "118",
+               "name": "10 essential Vim plugins for 2018 – Alex Hunt – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9"
+            }, {
+               "date_added": "13189459620496114",
+               "id": "119",
+               "name": "dotfiles/.nvimrc at master · zenbro/dotfiles",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/zenbro/dotfiles/blob/master/.nvimrc#L151-L187"
+            }, {
+               "date_added": "13189621887469977",
+               "id": "120",
+               "name": "Shortcuts to move faster in Bash command line - teohm",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/"
+            }, {
+               "date_added": "13189859540158599",
+               "id": "121",
+               "name": "Philips Norelco 3100 S3310/81 Review | Best Electric Shaver Reviews Dec. 2018",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://shaverguru.com/philips-norelco-3100-s331081-review/"
+            }, {
+               "date_added": "13189859798685488",
+               "id": "122",
+               "name": "Philips S3510/06: Análisis, Opiniones, Ventajas Y Desventajas - Shaver MEN",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://smen.es/cuidado-personal/philips-s3510-opinion/"
+            }, {
+               "date_added": "13189859810105087",
+               "id": "123",
+               "name": "Afeitadora - Philips S3510/06, sistema ComfortCut, 4 direcciones, con o sin cable | MediaMarkt",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.mediamarkt.es/es/product/_afeitadora-philips-s3510-06-sistema-comfortcut-4-direcciones-con-o-sin-cable-1317303.html"
+            }, {
+               "date_added": "13189859847100488",
+               "id": "124",
+               "name": "eBook - Kobo clara HD, 6\", 8 GB, Hasta 6000 libros, 1500 mAh, Negro | MediaMarkt",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.mediamarkt.es/es/product/_ebook-kobo-clara-hd-6-8-gb-hasta-6000-libros-1500-mah-negro-1408739.html"
+            }, {
+               "date_added": "13196769234523625",
+               "id": "125",
+               "name": "Advanced React and Redux: 2018 Edition | Udemy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.udemy.com/react-redux-tutorial/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-TECH-UKCAAU-DSA-1-EN-ENG_._ci__._sl_ENG_._vi_TECH_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_58179467640_._ad_311050879198_._de_c_._dm__._pl__._ti_aud-564043581982:dsa-304639796103_._li_9046553_._pd__._&gclid=Cj0KCQiA3IPgBRCAARIsABb-iGL3kc1YP5BPHHbaXP01hDEvWP5FOlVG2Y6MdnclR9x3lbrbmkoHRrkaArpIEALw_wcB"
+            }, {
+               "date_added": "13196774200985817",
+               "id": "126",
+               "name": "Redux vs. The React Context API",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://daveceddia.com/context-api-vs-redux/"
+            }, {
+               "date_added": "13197973567141899",
+               "id": "127",
+               "name": "React Redux Tutorial for Beginners: The Definitive Guide (2019)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.valentinog.com/blog/redux/"
+            }, {
+               "date_added": "13197973572647037",
+               "id": "128",
+               "name": "carbon/README.es.md at master · dawnlabs/carbon",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/dawnlabs/carbon/blob/master/docs/README.es.md"
+            }, {
+               "date_added": "13197973576048363",
+               "id": "129",
+               "name": "asciinema - Record and share your terminal sessions, the right way",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://asciinema.org/"
+            }, {
+               "date_added": "13197973603322315",
+               "id": "130",
+               "name": "hakimel/reveal.js: The HTML Presentation Framework",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/hakimel/reveal.js"
+            }, {
+               "date_added": "13198841854527196",
+               "id": "131",
+               "name": "Learn GraphQL: Best GraphQL courses, tutorials & books 2019 – ReactDOM",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://reactdom.com/graphql"
+            }, {
+               "date_added": "13199903970745261",
+               "id": "132",
+               "name": "keyboard - Remapping Caps Lock to Control and Escape (not the usual way) - Ask Ubuntu",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/177824/remapping-caps-lock-to-control-and-escape-not-the-usual-way"
+            }, {
+               "date_added": "13200179112818580",
+               "id": "133",
+               "name": "manjaro - Zsh icons broke in urxvt - Unix & Linux Stack Exchange",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://unix.stackexchange.com/questions/429946/zsh-icons-broke-in-urxvt"
+            }, {
+               "date_added": "13200179112818580",
+               "id": "134",
+               "name": "manjaro - Zsh icons broke in urxvt - Unix & Linux Stack Exchange",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://unix.stackexchange.com/questions/429946/zsh-icons-broke-in-urxvt"
+            }, {
+               "date_added": "13200240279862540",
+               "id": "135",
+               "name": "Ranger font issues - Newbie Corner - Manjaro Linux Forum",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://forum.manjaro.org/t/ranger-font-issues/50306/10"
+            }, {
+               "date_added": "13200269639496999",
+               "id": "136",
+               "name": "python - How to get a build of Neovim with python3 support for windows? - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/40900829/how-to-get-a-build-of-neovim-with-python3-support-for-windows"
+            }, {
+               "date_added": "13200317502482074",
+               "id": "137",
+               "name": "A guide to modern Web Development with (Neo)vim – freeCodeCamp.org",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2"
+            }, {
+               "date_added": "13200392441469831",
+               "id": "138",
+               "name": "Guía Rápida Instalación Arch Linux e i3-gaps. El Blog de Lázaro - Mis notas de Tecnología",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://elblogdelazaro.gitlab.io/post/2019-01-03-guia-instalacion-rapida-arch-i3wm.html"
+            }, {
+               "date_added": "13200966423205780",
+               "id": "139",
+               "name": "The Modern JavaScript Tutorial",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://javascript.info/"
+            }, {
+               "date_added": "13201005189721125",
+               "id": "140",
+               "name": "cd",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/shelljs/shelljs#shellstringstr"
+            }, {
+               "date_added": "13205202522460374",
+               "id": "141",
+               "meta_info": {
+                  "last_visited": "13205202522471566"
+               },
+               "name": "Learn About Windows Console & Windows Subsystem For Linux (WSL) | Windows Command Line Tools For Developers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://devblogs.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/"
+            }, {
+               "date_added": "13206613640619343",
+               "id": "142",
+               "meta_info": {
+                  "last_visited_desktop": "13206614691750646"
+               },
+               "name": "[M20] Woosh ... you're dead",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://aetherhub.com/Deck/Public/129692"
+            }, {
+               "date_added": "13207590041802608",
+               "id": "143",
+               "name": "advanced-css-course/vscode-setup.md at master · jonasschmedtmann/advanced-css-course · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/jonasschmedtmann/advanced-css-course/blob/master/vscode-setup.md"
+            }, {
+               "date_added": "13189459620496114",
+               "id": "144",
+               "name": "dotfiles/.nvimrc at master · zenbro/dotfiles",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/zenbro/dotfiles/blob/master/.nvimrc#L151-L187"
+            }, {
+               "date_added": "13189459620496114",
+               "id": "145",
+               "name": "dotfiles/.nvimrc at master · zenbro/dotfiles",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/zenbro/dotfiles/blob/master/.nvimrc#L151-L187"
+            }, {
+               "date_added": "13197973572647037",
+               "id": "146",
+               "name": "carbon/README.es.md at master · dawnlabs/carbon",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/dawnlabs/carbon/blob/master/docs/README.es.md"
+            }, {
+               "date_added": "13197973572647037",
+               "id": "147",
+               "name": "carbon/README.es.md at master · dawnlabs/carbon",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/dawnlabs/carbon/blob/master/docs/README.es.md"
+            }, {
+               "date_added": "13201005189721125",
+               "id": "148",
+               "name": "cd",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/shelljs/shelljs#shellstringstr"
+            }, {
+               "date_added": "13201005189721125",
+               "id": "149",
+               "name": "cd",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/shelljs/shelljs#shellstringstr"
+            }, {
+               "date_added": "13209120548514272",
+               "id": "150",
+               "meta_info": {
+                  "last_visited_desktop": "13209120548514800"
+               },
+               "name": "GraphQL Query Language from @eveporcello on @eggheadio",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://egghead.io/courses/graphql-query-language?utm_content=graphql-query-language&amp%3Butm_medium=email&amp%3Butm_source=drip&amp%3Butm_term=graphql&utm_medium=email"
+            }, {
+               "date_added": "13209120548514272",
+               "id": "151",
+               "meta_info": {
+                  "last_visited_desktop": "13209120548514800"
+               },
+               "name": "GraphQL Query Language from @eveporcello on @eggheadio",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://egghead.io/courses/graphql-query-language?utm_content=graphql-query-language&amp%3Butm_medium=email&amp%3Butm_source=drip&amp%3Butm_term=graphql&utm_medium=email"
+            }, {
+               "date_added": "13209389076052229",
+               "id": "152",
+               "name": "Real-Time React with Socket.io: Building a Pair Programming App",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.thegreatcodeadventure.com/real-time-react-with-socket-io-building-a-pair-programming-app/"
+            }, {
+               "date_added": "13209389076052229",
+               "id": "153",
+               "name": "Real-Time React with Socket.io: Building a Pair Programming App",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.thegreatcodeadventure.com/real-time-react-with-socket-io-building-a-pair-programming-app/"
+            }, {
+               "date_added": "13209389227935132",
+               "id": "154",
+               "name": "Build a Real-time Notification System With GraphQL, React and Apollo - Theodo",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.theodo.com/2018/02/real-time-notification-system-graphql-react-apollo/"
+            }, {
+               "date_added": "13209485389795153",
+               "id": "155",
+               "meta_info": {
+                  "last_visited_desktop": "13209485389795625"
+               },
+               "name": "add cursor",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/VSCodeVim/Vim"
+            }, {
+               "date_added": "13209564718029375",
+               "id": "156",
+               "meta_info": {
+                  "last_visited_desktop": "13209754830431715"
+               },
+               "name": "exten",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/testing-library/react-testing-library"
+            }, {
+               "date_added": "13209389227935132",
+               "id": "157",
+               "name": "Build a Real-time Notification System With GraphQL, React and Apollo - Theodo",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.theodo.com/2018/02/real-time-notification-system-graphql-react-apollo/"
+            }, {
+               "date_added": "13209485389795153",
+               "id": "158",
+               "meta_info": {
+                  "last_visited_desktop": "13209485389795625"
+               },
+               "name": "add cursor",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/VSCodeVim/Vim"
+            }, {
+               "date_added": "13209654703655693",
+               "id": "159",
+               "meta_info": {
+                  "last_visited_desktop": "13209654703656499"
+               },
+               "name": "How to calculate your Biological Prime Time - the time of the day you’re the most productive | A Life of Productivity",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://alifeofproductivity.com/calculate-biological-prime-time/"
+            }, {
+               "date_added": "13209564718029375",
+               "id": "160",
+               "meta_info": {
+                  "last_visited_desktop": "13209754830431715"
+               },
+               "name": "exten",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/testing-library/react-testing-library"
+            }, {
+               "date_added": "13209654708820951",
+               "id": "161",
+               "meta_info": {
+                  "last_visited_desktop": "13209654708821454"
+               },
+               "name": "Aprende a determinar tus horas productivas para ser mas eficiente",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.trello.com/es/horas-productivas?utm_source=newsletter&utm_medium=email&utm_campaign=trello-test-v2"
+            }, {
+               "date_added": "13209654703655693",
+               "id": "162",
+               "meta_info": {
+                  "last_visited_desktop": "13209654703656499"
+               },
+               "name": "How to calculate your Biological Prime Time - the time of the day you’re the most productive | A Life of Productivity",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://alifeofproductivity.com/calculate-biological-prime-time/"
+            }, {
+               "date_added": "13209749666770501",
+               "id": "163",
+               "meta_info": {
+                  "last_visited_desktop": "13209749666773636"
+               },
+               "name": "Writing Tests · Redux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://redux.js.org/recipes/writing-tests"
+            }, {
+               "date_added": "13209654708820951",
+               "id": "164",
+               "meta_info": {
+                  "last_visited_desktop": "13209654708821454"
+               },
+               "name": "Aprende a determinar tus horas productivas para ser mas eficiente",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.trello.com/es/horas-productivas?utm_source=newsletter&utm_medium=email&utm_campaign=trello-test-v2"
+            }, {
+               "date_added": "13209749666770501",
+               "id": "165",
+               "meta_info": {
+                  "last_visited_desktop": "13209749666773636"
+               },
+               "name": "Writing Tests · Redux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://redux.js.org/recipes/writing-tests"
+            } ],
+            "date_added": "13211203987665946",
+            "date_modified": "13211203987665946",
+            "id": "57",
+            "name": "Cursos Online",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13171486653955695",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13210243335323778"
+            },
+            "name": "Product Hunt",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.producthunt.com/"
+         }, {
+            "date_added": "13171589620293017",
+            "id": "59",
+            "name": "Brief history of JavaScript Modules – sungthecoder – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde"
+         }, {
+            "date_added": "13171589679342515",
+            "id": "60",
+            "name": "Cómo empezar con Webpack",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://carlosazaustre.es/primeros-pasos-con-webpack/"
+         }, {
+            "date_added": "13171912146818587",
+            "id": "61",
+            "name": "The Visual Studio Code Command Line Options",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://code.visualstudio.com/docs/editor/command-line"
+         }, {
+            "date_added": "13172231684926633",
+            "id": "62",
+            "name": "Alternar audio entre Audífonos y Altavoces - Cualquier versión de Windows (32bits-64bits) - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=xfKXB7PhwfE"
+         }, {
+            "date_added": "13180386182934785",
+            "id": "63",
+            "name": "How to write a great resume for software engineers – freeCodeCamp.org",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322"
+         }, {
+            "children": [ {
+               "date_added": "13180447010759569",
+               "id": "93",
+               "name": "Manning | Manning | Confirmation",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.manning.com/checkout/placeOrder"
+            }, {
+               "date_added": "13197256213711741",
+               "id": "94",
+               "name": "Creating a GraphQL Server with Apollo - DEV Community 👩‍💻👨‍💻",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dev.to/azure/creating-a-graphql-server-withapollo-jjj"
+            }, {
+               "date_added": "13197256459717832",
+               "id": "95",
+               "name": "Consuming an Apollo GraphQL Server using React - DEV Community 👩‍💻👨‍💻",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dev.to/azure/consuming-an-apollo-graphql-server-usingreact-3kk4"
+            }, {
+               "date_added": "13204368186356610",
+               "id": "96",
+               "meta_info": {
+                  "last_visited_desktop": "13204368186357368"
+               },
+               "name": "Stanford professors: 5 books to boost your success and value in life",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.cnbc.com/2019/06/03/summer-reading-stanford-business-professors-says-these-books-will-boost-value-and-success-in-life.html?utm_source=pocket&utm_medium=email&utm_campaign=pockethits"
+            } ],
+            "date_added": "13211203987666747",
+            "date_modified": "13211203987666747",
+            "id": "64",
+            "name": "Books",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13211203987666758",
+            "date_modified": "13211203987666758",
+            "id": "65",
+            "name": "Insendi",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13199058493053910",
+               "id": "82",
+               "name": "Apartamento en Calle República Dominicana Guanerteme - 150642335 | fotocasa",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.fotocasa.es/es/alquiler/vivienda/las-palmas-de-gran-canaria/ascensor-amueblado-television-internet/150642335/d?RowGrid=24&tti=3&opi=300"
+            }, {
+               "date_added": "13199060538277152",
+               "id": "83",
+               "name": "Alquiler de Piso en paseo de Tomás Morales, 112, Arenales - Lugo - Avda Marítima, Las Palmas de Gran Canaria",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.idealista.com/inmueble/84692498/"
+            }, {
+               "children": [ {
+                  "date_added": "13199278975572275",
+                  "id": "85",
+                  "meta_info": {
+                     "last_visited_desktop": "13211021031547851"
+                  },
+                  "name": "AC board - Tablero ágil - Jira",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://insendi.atlassian.net/secure/RapidBoard.jspa?projectKey=AC&rapidView=3"
+               }, {
+                  "date_added": "13199278975574496",
+                  "id": "86",
+                  "meta_info": {
+                     "last_visited_desktop": "13202997971636795"
+                  },
+                  "name": "insendi / activity-checkbox / components / submission_screen / CheckboxOption.js — Bitbucket",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://bitbucket.org/insendi/activity-checkbox/src/master/components/submission_screen/CheckboxOption.js"
+               }, {
+                  "date_added": "13199278975574710",
+                  "id": "87",
+                  "name": "How to handle HTML checkbox events",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://form.guide/html-form/html-checkbox-events.html"
+               }, {
+                  "date_added": "13199278975574901",
+                  "id": "88",
+                  "meta_info": {
+                     "last_visited_desktop": "13211022546936952"
+                  },
+                  "name": "Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://regex101.com/"
+               }, {
+                  "date_added": "13200860669633518",
+                  "id": "89",
+                  "name": "i3-polybar-config/config at master · nicomazz/i3-polybar-config · GitHub",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/nicomazz/i3-polybar-config/blob/master/polybar/config"
+               }, {
+                  "date_added": "13200860669633518",
+                  "id": "90",
+                  "name": "i3-polybar-config/config at master · nicomazz/i3-polybar-config · GitHub",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/nicomazz/i3-polybar-config/blob/master/polybar/config"
+               }, {
+                  "date_added": "13200860669633518",
+                  "id": "91",
+                  "name": "i3-polybar-config/config at master · nicomazz/i3-polybar-config · GitHub",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/nicomazz/i3-polybar-config/blob/master/polybar/config"
+               }, {
+                  "date_added": "13211200881770602",
+                  "id": "92",
+                  "name": "2tkdd2nj6dh31.jpg (1920×3240)",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://i.redd.it/2tkdd2nj6dh31.jpg"
+               } ],
+               "date_added": "13211203987668440",
+               "date_modified": "13211203987668440",
+               "id": "84",
+               "name": "Nueva carpeta",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13211203987666767",
+            "date_modified": "13211203987666767",
+            "id": "66",
+            "name": "apartamento",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13200343288306574",
+            "id": "67",
+            "name": "pdf.php",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www2.ulpgc.es/aplicaciones/proyectosdocentes/pdf.php?id_proyecto=56138&NUEVA=1"
+         }, {
+            "date_added": "13201046521310785",
+            "id": "68",
+            "name": "Upload file popup (for Chrome and Firefox) broken · Issue #3345 · i3/i3 · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/i3/i3/issues/3345"
+         }, {
+            "children": [ {
+               "date_added": "13207003854585039",
+               "id": "80",
+               "name": "Stream Decker",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.streamdecker.com/"
+            }, {
+               "date_added": "13207003872580089",
+               "id": "81",
+               "name": "Nightbot - Dashboard",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://beta.nightbot.tv/dashboard"
+            } ],
+            "date_added": "13211203987667115",
+            "date_modified": "13211203987667115",
+            "id": "69",
+            "name": "Streming",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13211202323976130",
+               "id": "71",
+               "name": "#triangle, #minimalism, #veins | 1920x1200 Wallpaper: 3kqrdy - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/3kqrdy"
+            }, {
+               "date_added": "13211202355758832",
+               "id": "72",
+               "name": "#planet, #minimalism | 5120x2880 Wallpaper: kwl6p7 - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/kwl6p7"
+            }, {
+               "date_added": "13210810811054707",
+               "id": "73",
+               "name": "#women, #Ilya Kuvshinov, #drawing, #artwork, #digital art | 1920x1080 Wallpaper: yj2pvd - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/yj2pvd"
+            }, {
+               "date_added": "13211202469044199",
+               "id": "74",
+               "name": "#Batman logo, #minimalism, #simple background | 1920x1080 Wallpaper: nrkx9w - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/nrkx9w"
+            }, {
+               "date_added": "13211202475257677",
+               "id": "75",
+               "name": "#ensō, #edit, #pink | 3840x2160 Wallpaper: 47ylwy - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/47ylwy"
+            }, {
+               "date_added": "13211202676693524",
+               "id": "76",
+               "name": "#digital art, #colorful, #pink flowers, #black background, #simple background | 1920x1440 Wallpaper: vmyjdl - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/vmyjdl"
+            }, {
+               "date_added": "13211202706401647",
+               "id": "77",
+               "name": "#Dr. Manhattan, #Watchmen, #comics | 1920x1080 Wallpaper: yjed1x - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/yjed1x"
+            }, {
+               "date_added": "13211202710826689",
+               "id": "78",
+               "name": "#Archlinux, #Arch Linux, #logo, #Linux | 3840x2160 Wallpaper: k91y87 - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/k91y87"
+            }, {
+               "date_added": "13211202716040114",
+               "id": "79",
+               "name": "#Half-Life, #Half-Life 2, #video games | 1280x1024 Wallpaper: vmopwl - wallhaven.cc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallhaven.cc/w/vmopwl"
+            } ],
+            "date_added": "13211203987667131",
+            "date_modified": "13211203987667131",
+            "id": "70",
+            "name": "wallpaper",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13211203938598130",
+         "date_modified": "13201046521310785",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13149867745846365",
+            "id": "35",
+            "name": "You can probably use deep learning even if your data isn't that big",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+         }, {
+            "date_added": "13149867809383258",
+            "id": "36",
+            "name": "Zayd's Blog – Why is machine learning 'hard'?",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html"
+         }, {
+            "date_added": "13159312507758063",
+            "id": "37",
+            "name": "loadouts.gg",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://loadouts.gg/1.2.0/Thorn"
+         }, {
+            "date_added": "13161131509001131",
+            "id": "38",
+            "name": "Windwalker PvE: Talents | Peak of Serenity",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.peakofserenity.com/windwalker/guide/pve/talents/"
+         }, {
+            "date_added": "13161232236630772",
+            "id": "39",
+            "name": "NieR Automata para PS4 - 3DJuegos",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.3djuegos.com/22701/nier-automata/"
+         }, {
+            "date_added": "13161864904428314",
+            "id": "40",
+            "name": "MW: Trinkets | Vientos de jade",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://vientosdejade.wordpress.com/trinkets/"
+         }, {
+            "date_added": "13182876087318373",
+            "id": "41",
+            "name": "Shards Vue - High-Quality & Free Vue UI Kit – DesignRevision",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://designrevision.com/downloads/shards-vue/"
+         }, {
+            "date_added": "13188392990122421",
+            "id": "42",
+            "name": "Javascript Classes — Under The Hood – tajawal – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677"
+         }, {
+            "date_added": "13188411161094797",
+            "id": "43",
+            "name": "Reconciliation – React",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://reactjs.org/docs/reconciliation.html"
+         }, {
+            "date_added": "13191450814456760",
+            "id": "44",
+            "name": "Shipping method - Boundary Supply - Checkout",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.boundarysupply.com/16006021/checkouts/66cb40be8f6419378276601140ea3127?previous_step=contact_information&step=shipping_method"
+         }, {
+            "date_added": "13197067848468226",
+            "id": "45",
+            "name": "Supercharge Vim with Fzf and Ripgrep – Otis Wright – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/@crashybang/supercharge-vim-with-fzf-and-ripgrep-d4661fc853d2"
+         }, {
+            "date_added": "13208092717065944",
+            "id": "46",
+            "name": "Thalasso Gloria - Amadores Hasta 54% dto. - Mogán | Groupon",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.groupon.es/deals/thalasso-gloria-amadores-1"
+         }, {
+            "date_added": "13211202856785570",
+            "id": "47",
+            "name": "terminal.sexy - Terminal Color Scheme Designer",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://terminal.sexy/#HCAjx8zRHCAjx66VlceurseVrpXHx5Wula7Hx8zRdHyEx66VlceurseVrpXHx5Wula7H8_T1"
+         } ],
+         "date_added": "13211203938598138",
+         "date_modified": "13211202856785570",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "sync_transaction_version": "10",
+      "synced": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13206672657211837",
+               "id": "32",
+               "name": "Stream Decker",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.streamdecker.com/deck/84NO0tAbgP"
+            }, {
+               "date_added": "13209086871876187",
+               "id": "33",
+               "name": "Inkdrop - Note-taking App with Robust Markdown Editor | Inkdrop",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://inkdrop.app/"
+            }, {
+               "date_added": "13209086871876187",
+               "id": "34",
+               "name": "Inkdrop - Note-taking App with Robust Markdown Editor | Inkdrop",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://inkdrop.app/"
+            } ],
+            "date_added": "13211203987652179",
+            "date_modified": "13211203987652180",
+            "id": "5",
+            "name": "Magic",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13096704291248792",
+            "id": "6",
+            "name": "Universidad de Las Palmas de Gran Canaria - StuDocu",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.studocu.com/es/institution/universidad-de-las-palmas-de-gran-canaria/8890?utm_source=facebook&utm_medium=ads&utm_campaign=spain+finals+january+2016"
+         }, {
+            "date_added": "13095850697147669",
+            "id": "7",
+            "name": "Whakoom, La nueva forma de coleccionar cómics",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.whakoom.com/"
+         }, {
+            "date_added": "13092894055115316",
+            "id": "8",
+            "name": "Limited Edition! Ending Soon! | Teezily",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.teezily.com/tzkingdom#item=6492204&side=front"
+         }, {
+            "date_added": "13088327144837786",
+            "id": "9",
+            "name": "Steam Community :: Guide :: [ESP] Guía y cosas básicas para CS:GO",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=465874272"
+         }, {
+            "date_added": "13116173082135453",
+            "id": "10",
+            "name": "Math 101: A reading list for lifelong learners |",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://ideas.ted.com/math-101-a-reading-list-for-lifelong-learners/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ideas-blog&utm_term=math"
+         }, {
+            "date_added": "13128262527390282",
+            "id": "11",
+            "name": "Sudadera de hombre Sportswear Modern Nike · Nike · Deportes · El Corte Inglés",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.elcorteingles.es/deportes/A17652958-sudadera-de-hombre-sportswear-modern-nike/"
+         }, {
+            "date_added": "13169910770486803",
+            "id": "12",
+            "name": "8 top must-use tools to boost your web development workflow - Coding Startups",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://codingstartups.com/8-top-must-use-tools-boost-web-development-workflow/"
+         }, {
+            "date_added": "13171769673465969",
+            "id": "13",
+            "name": "Best Practices With CSS Grid Layout — Smashing Magazine",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/"
+         }, {
+            "date_added": "13175646624536010",
+            "id": "14",
+            "name": "Playing with Javascript Promises: A Comprehensive Approach",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3"
+         }, {
+            "date_added": "13176687200985925",
+            "id": "15",
+            "name": "The Best Explanation of JavaScript Reactivity 🎆 – Vue Mastery – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d"
+         }, {
+            "date_added": "13176687205482458",
+            "id": "16",
+            "name": "Why I left React for Vue. – Sourcerer Blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.sourcerer.io/why-you-should-leave-react-for-vue-and-never-use-it-again-5e274bef27c2"
+         }, {
+            "date_added": "13176772540486106",
+            "id": "17",
+            "name": "Pagination in Vue.js – Denny Headrick – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/@denny.headrick/pagination-in-vue-js-4bfce47e573b"
+         }, {
+            "date_added": "13177369415639420",
+            "id": "18",
+            "name": "Build a Chat App with React, Auth0 and Pusher",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://auth0.com/blog/build-a-chat-app-with-react/"
+         }, {
+            "date_added": "13177370324067176",
+            "id": "19",
+            "name": "Creating a Website with Nuxt.js and WordPress REST API",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/@moustachedesign/creating-a-website-with-nuxt-js-and-wordpress-rest-api-51cf66599cf3"
+         }, {
+            "date_added": "13178589580364792",
+            "id": "20",
+            "name": "Cerdo agridulce",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.diezminutos.es/estilo-de-vida/cocina-recetas/news/g11602/cerdo-agridulce/"
+         }, {
+            "date_added": "13179279784934371",
+            "id": "21",
+            "name": "Increasing the amount of inotify watchers · guard/listen Wiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers"
+         }, {
+            "date_added": "13179356372121663",
+            "id": "22",
+            "name": "Jacek Ławniczak - X-Team Blog - Commit. Push. Unleash.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://x-team.com/blog/author/jacek-lawniczak/"
+         }, {
+            "date_added": "13179541371643606",
+            "id": "23",
+            "name": "After upgrading from 17.10 Ubuntu 18.04 won't sleep/suspend - Ask Ubuntu",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/1041369/after-upgrading-from-17-10-ubuntu-18-04-wont-sleep-suspend"
+         }, {
+            "date_added": "13179541539014676",
+            "id": "24",
+            "name": "18.04 does not shutdown, it goes into suspend modus - Ask Ubuntu",
+            "sync_transaction_version": "6",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/1037460/18-04-does-not-shutdown-it-goes-into-suspend-modus"
+         }, {
+            "date_added": "13179541641583042",
+            "id": "25",
+            "name": "GitHub - Bumblebee-Project/bbswitch: Disable discrete graphics (currently nvidia only)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/Bumblebee-Project/bbswitch"
+         }, {
+            "date_added": "13179607712111067",
+            "id": "26",
+            "name": "Ubuntu 18.04 - Dell XPS13 9370 no longer suspends on lid close - Ask Ubuntu",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/1029474/ubuntu-18-04-dell-xps13-9370-no-longer-suspends-on-lid-close/1044270"
+         }, {
+            "date_added": "13180114731057673",
+            "id": "27",
+            "name": "Curriculum Vitae on Behance",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.behance.net/gallery/26611697/Curriculum-Vitae"
+         }, {
+            "date_added": "13180114845022132",
+            "id": "28",
+            "name": "Iago Francisco - Currículo / Resumé on Behance",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.behance.net/gallery/35497909/Iago-Francisco-Curriculo-Resum"
+         }, {
+            "date_added": "13180114899645729",
+            "id": "29",
+            "name": "Resume / Curriculum Vitae on Behance",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.behance.net/gallery/21555345/Resume-Curriculum-Vitae"
+         }, {
+            "date_added": "13180192749244350",
+            "id": "30",
+            "name": "VueJS: Testeando nuestros stores | el.abismo = de[null]",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://elabismodenull.wordpress.com/2018/04/09/vuejs-testeando-nuestros-stores/#more-17348"
+         }, {
+            "date_added": "13203620164553582",
+            "id": "31",
+            "meta_info": {
+               "last_visited_desktop": "13203620164554220"
+            },
+            "name": "How to NOT React: Common Anti-Patterns and Gotchas in React",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd"
+         } ],
+         "date_added": "13211203938598140",
+         "date_modified": "13203620164553582",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

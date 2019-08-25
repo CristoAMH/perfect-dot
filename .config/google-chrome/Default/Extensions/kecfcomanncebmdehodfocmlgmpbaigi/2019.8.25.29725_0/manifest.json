@@ -1,0 +1,66 @@
+{
+   "app": {
+      "icon_color": "#7E8082",
+      "launch": {
+         "web_url": "https://codesandbox.io/s/?utm_source=homescreen"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://codesandbox.io/codesandbox-16.png"
+      }, {
+         "size": 32,
+         "url": "https://codesandbox.io/codesandbox-32.png"
+      }, {
+         "size": 48,
+         "url": "https://codesandbox.io/codesandbox-128.png"
+      }, {
+         "size": 64,
+         "url": "https://codesandbox.io/codesandbox-128.png"
+      }, {
+         "size": 96,
+         "url": "https://codesandbox.io/codesandbox-128.png"
+      }, {
+         "size": 128,
+         "url": "https://codesandbox.io/codesandbox-128.png"
+      }, {
+         "size": 144,
+         "url": "https://codesandbox.io/apple-touch-icon-152x152.png"
+      }, {
+         "size": 180,
+         "url": "https://codesandbox.io/apple-touch-icon-180x180.png"
+      }, {
+         "size": 256,
+         "url": "https://codesandbox.io/codesandbox-256.png"
+      }, {
+         "size": 512,
+         "url": "https://codesandbox.io/codesandbox-512.png"
+      }, {
+         "size": 1024,
+         "url": "https://codesandbox.io/codesandbox-1024.png"
+      } ],
+      "theme_color": "rgba(28,32,34,1)"
+   },
+   "description": "CodeSandbox is an online editor tailored for web applications.",
+   "icons": {
+      "1024": "icons/1024.png",
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "16": "icons/16.png",
+      "180": "icons/180.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "cC73jxavKPIlVk1IuZfMkWf6yF3o3JGQS83OVh+1QnI=",
+   "name": "CodeSandbox",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://codesandbox.io/s/*" ],
+         "title": "CodeSandbox"
+      }
+   },
+   "version": "2019.8.25.29725"
+}

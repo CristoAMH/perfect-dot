@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "background.htm",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "img/browser_icon.png",
+      "default_popup": "popup.htm",
+      "default_title": "__MSG_name__"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'  https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "img/extension_icon.png",
+      "16": "img/browser_icon.png",
+      "32": "img/extension_icon.png",
+      "48": "img/extension_icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfLYEOKKMpp1h6fVObQNYSN5XFMi3ZamqjCkuUo/W1wCzq0bZeUBSO3fX86uYdefqzxmYa4nNODwRgZ4tuFkLrBn1n3VIKtUnsUzKmvDn4a/c2ZqrwgmwbbsO6bk+EOrx3OdsO4GdQsEzDaMQgOZjm4T/ylI4WBy3pLzKF9T/gY0jIR+xQfj+BvVC6eYjTMef2GYOrOADDN0tQ4fA4Plh63T5T0dWeJ+6qZty8aVdLLilIMVgp+iLc+s1hD6D7jCIrDUAR7xm34Y3y8HraSsn40wc1Iz7kowXReEuT7sL/qR95KGZ/d0xsu1B4OwxvA3Pc4zL1BYPu6mh2TVXgMiSQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "options.htm",
+   "permissions": [ "tabs", "*://*/", "chrome://favicon/", "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.51"
+}
